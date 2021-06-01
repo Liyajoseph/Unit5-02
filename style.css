@@ -1,3 +1,9 @@
 .body1 {
   background-color: antiquewhite;
 }
+
+#id1 {
+  color: cornflowerblue;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: yellow;
+}
